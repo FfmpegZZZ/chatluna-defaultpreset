@@ -1,0 +1,2 @@
+# chatluna-defaultpreset
+基于koishi插件chatluna插件的AI聊天预设
